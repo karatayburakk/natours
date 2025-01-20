@@ -1,0 +1,20 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Node.js Course Application",
+  "homepage": "https://github.com/karatayburakk/natours#readme",
+  "bugs": {
+    "url": "https://github.com/karatayburakk/natours/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karatayburakk/natours.git"
+  },
+  "license": "ISC",
+  "author": "Burak Karatay",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
